@@ -4,6 +4,7 @@ This code generates Objective Digital Stains and it is implemented in PHP
  Please read more about DNA patterns (aka Objective Digital Stains) here:
  
  Eukaryotic genomes may exhibit up to 10 generic classes of gene promoters:
+ 
  https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-512
  
  and 
