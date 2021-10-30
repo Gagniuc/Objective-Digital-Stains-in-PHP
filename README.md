@@ -1,6 +1,9 @@
 # Objective Digital Stains in PHP
-This code generates Objective Digital Stains and it is implemented in PHP
- 
+This code generates Objective Digital Stains and it is implemented in PHP. The ods.php file can be called as follows:
+
+ods.php?s=AGCATGCTATCTTCATACTACTACTAGCTATCTACTATCGTATCATCTATCTGTCTACTTACACTACTCACTCATACTCA
+
+# Info on ODSs
  Please read more about DNA patterns (aka Objective Digital Stains) here:
  
  Eukaryotic genomes may exhibit up to 10 generic classes of gene promoters: 
