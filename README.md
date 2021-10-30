@@ -21,7 +21,7 @@ The above link will return an image to the browser tab, representing the Objecti
  Algorithms in Bioinformatics: Theory and Implementation:
  https://www.wiley.com/en-ag/Algorithms+in+Bioinformatics%3A+Theory+and+Implementation-p-9781119697961
  
-#Screenshot
+# Screenshot
 
  ![screenshot](https://github.com/Gagniuc/Objective-Digital-Stains-in-PHP/blob/main/img/ODS%20DNA%20patterns.PNG)
 
