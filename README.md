@@ -1,9 +1,9 @@
 # Objective Digital Stains in PHP
-This code generates Objective Digital Stains and it is implemented in PHP. The ods.php file can be called directly as follows:
+This code generates Objective Digital Stains and it is implemented in PHP. The ods.php file can uploaded to the 'htdocs' folder of the server and it can be called directly from the browser as follows:
 
 ods.php?s=AGCATGCTATCTTCATACTACTACTAGCTATCTAC
 
-The above link will return a image representing the Objective Digital Stain of the DNA or RNA sequence.
+The above link will return an image to the browser tab, representing the Objective Digital Stain of the DNA or RNA sequence.
 
 # Info on ODSs
  Please read more about DNA patterns (aka Objective Digital Stains) here:
