@@ -3,7 +3,7 @@ This code generates Objective Digital Stains and it is implemented in PHP. The o
 
 ods.php?s=AGCATGCTATCTTCATACTACTACTAGCTATCTAC
 
-The above link will return an image to the browser tab, representing the Objective Digital Stain of the DNA or RNA sequence.
+The above link will return an image to the browser tab, representing the Objective Digital Stain of the DNA or RNA sequence. Note that the 'include version' folder is redundant and contains the same project structured on three files instead of one.
 
 # Info on ODSs
  Please read more about DNA patterns (aka Objective Digital Stains) here:
