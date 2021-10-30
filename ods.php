@@ -21,7 +21,6 @@
 
 	$sequence = $_GET["s"];
 
-
 	function Sliding_Windw($sequence)
 	{
 		$window = 30;
@@ -31,7 +30,6 @@
 		{
 			echo substr($sequence, $u, $window) . "<br>";
 		}
-
 	}
 
 
