@@ -27,6 +27,7 @@ The Objective Digital Stains are also implemented in other languages, from which
 [In VB6](https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6)
 
 # Info on ODSs
+
  Please read more about DNA patterns (aka Objective Digital Stains) here:
  
 - [Eukaryotic genomes may exhibit up to 10 generic classes of gene promoters](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-512)
