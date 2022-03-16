@@ -38,7 +38,7 @@ The Objective Digital Stains are also implemented in other languages, from which
  
 # Screenshot
 
- ![screenshot](https://github.com/Gagniuc/Objective-Digital-Stains-in-PHP/blob/main/img/ODS%20DNA%20patterns.PNG)
+ ![screenshot](https://github.com/Gagniuc/Objective-Digital-Stains-in-PHP/blob/main/img/ODS%20DNA%20patterns.png?raw=true)
 
  # References
 
